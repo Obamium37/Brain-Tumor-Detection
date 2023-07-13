@@ -1,4 +1,6 @@
+# Data
 
+The dataset used to train the model can be found here: https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
 # Tumor Detection
 
 This repository contains a deep learning model for tumor detection using Convolutional Neural Networks (CNNs). The model is trained to classify medical images as either "Tumor" or "Non-Tumor" based on their visual characteristics.
